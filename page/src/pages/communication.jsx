@@ -148,7 +148,7 @@ export default function Communication(){
                     <div className="flex-2   m-5 mt-12">
                         <p className="text-xl font-semibold p-2  text-gray-800">Current Address</p>
                         <textarea className="bg-gray-100 h-36 w-full rounded-lg resize-none p-2 text-xl" ></textarea>
-                        <p className="text-xl font-semibold p-2  text-gray-800">Current Address</p>
+                        <p className="text-xl font-semibold p-2  text-gray-800">Permanent address</p>
                         <textarea className="bg-gray-100 w-full h-36  rounded-lg resize-none p-2 text-xl" ></textarea>
                     </div>
             
